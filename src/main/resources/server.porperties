@@ -1,0 +1,7 @@
+server./aaa/bb/sss.className= service.getServiceImpl.GetServiceImpl
+server./aaa/bb/sss.methodName= testService
+server./aaa/bb/sss.method= GET
+
+server./testPost.className= service.postServiceImpl.PostServiceImpl
+server./testPost.methodName= testPost
+server./testPost.method= POST
